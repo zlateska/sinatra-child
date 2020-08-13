@@ -1,1 +1,1 @@
-# sinatra-child
+# Sinatra Child Theme
